@@ -1,0 +1,5 @@
+daphne==3.0.1
+Django==3.2
+django-celery==3.3.1
+djangorestframework==3.12.4
+mysqlclient==2.0.3
